@@ -92,7 +92,7 @@ year = {2023},
 
 ## Contact us
 
-Xiaodian Zhang (email: xdz@bit.edu.cn)
+Xiaodian Zhang (email: xdz@bit.edu.cn / 2414182986@qq.com)
 
 corresponding author: Kun Gao (email: gaokun@bit.edu.cn)
 
